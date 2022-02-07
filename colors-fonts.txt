@@ -1,0 +1,13 @@
+COLORS:
+Backgrounds:
+- odd sections: #f3f7f7
+- even sections: #d1efe9
+Text: #000
+Blog div: #f3f7f7
+
+FONTS:
+- h1.slider: Major Mono Display uppercase
+- h1, h2, h3: Major Mono Display lowercase
+- p: Open Sans
+- subscribe: Inconsolata
+- quote: Special Elite
